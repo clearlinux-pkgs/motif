@@ -1,0 +1,168 @@
+Configure miss: /usr/X/include/X11/X.h
+Configure miss: /usr/X11R6/include/X11/X.h
+Configure miss: byacc
+Configure miss: splint
+Configure miss: X11/Xmu/Editres.h
+Configure miss: sys/malloc.h usability
+Configure miss: sys/malloc.h presence
+Configure miss: sys/malloc.h
+Configure miss: regcmp
+Configure miss: libXp... checking X11/extensions/Print.h usability
+Configure miss: X11/extensions/Print.h presence
+Configure miss: X11/extensions/Print.h
+Configure miss: freetype/freetype.h usability
+Configure miss: freetype/freetype.h presence
+Configure miss: freetype/freetype.h
+Configure miss: X11/extensions/Xrender.h usability
+Configure miss: X11/extensions/Xrender.h presence
+Configure miss: X11/extensions/Xrender.h
+Configure miss: fontconfig-config
+Configure miss: Mrmhier.c:262:8: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: Mrmhier.c:265:8: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: Mrmicon.c:1173:3: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: Mrmicon.c:1249:8: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: Mrmlread.c:688:7: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: Mrmwcrw.c:1388:9: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: Mrmwcrw.c:2424:4: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:571:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:576:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:580:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:809:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:810:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutmm.c:206:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutmm.c:208:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutmm.c:284:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutmm.c:320:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:222:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:227:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:241:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:255:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:269:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:283:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:298:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:312:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:376:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:381:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:389:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:443:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:448:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:456:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:506:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:511:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:518:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:618:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:623:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:634:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:658:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:682:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:698:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:711:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:724:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:778:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:784:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:802:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:875:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:876:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:922:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:928:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1001:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1002:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1048:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1054:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1126:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1127:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1171:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1177:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1248:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1249:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1293:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1299:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1435:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1514:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1618:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1623:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1640:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1652:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1666:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1672:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1810:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1815:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1833:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1855:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1877:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1903:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmlouth.c:1933:1: warning: format not a string literal and no format arguments [-Wformat-security]
