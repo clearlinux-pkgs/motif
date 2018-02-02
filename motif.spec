@@ -4,7 +4,7 @@
 #
 Name     : motif
 Version  : 2.3.7
-Release  : 1
+Release  : 2
 URL      : https://sourceforge.net/projects/motif/files/Motif%202.3.7%20Source%20Code/motif-2.3.7.tar.gz
 Source0  : https://sourceforge.net/projects/motif/files/Motif%202.3.7%20Source%20Code/motif-2.3.7.tar.gz
 Summary  : No detailed summary available
