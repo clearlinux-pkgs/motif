@@ -484,6 +484,12 @@ libXm.so.4:XmClipboardStartRetrieve
 libXm.so.4:XmClipboardUndoCopy
 libXm.so.4:XmClipboardUnlock
 libXm.so.4:XmClipboardWithdrawFormat
+libXm.so.4:XmCombinationBox2GetArrow
+libXm.so.4:XmCombinationBox2GetChild
+libXm.so.4:XmCombinationBox2GetLabel
+libXm.so.4:XmCombinationBox2GetList
+libXm.so.4:XmCombinationBox2GetText
+libXm.so.4:XmCombinationBox2GetValue
 libXm.so.4:XmCombinationBoxGetValue
 libXm.so.4:XmComboBoxAddItem
 libXm.so.4:XmComboBoxDeletePos
@@ -517,6 +523,7 @@ libXm.so.4:XmCreateCascadeButton
 libXm.so.4:XmCreateCascadeButtonGadget
 libXm.so.4:XmCreateColorSelector
 libXm.so.4:XmCreateColumn
+libXm.so.4:XmCreateCombinationBox2
 libXm.so.4:XmCreateComboBox
 libXm.so.4:XmCreateCommand
 libXm.so.4:XmCreateCommandDialog
@@ -530,6 +537,8 @@ libXm.so.4:XmCreateDropDown
 libXm.so.4:XmCreateDropDownComboBox
 libXm.so.4:XmCreateDropDownList
 libXm.so.4:XmCreateErrorDialog
+libXm.so.4:XmCreateExt18List
+libXm.so.4:XmCreateExtended18List
 libXm.so.4:XmCreateFileSelectionBox
 libXm.so.4:XmCreateFileSelectionDialog
 libXm.so.4:XmCreateFontSelector
@@ -666,6 +675,17 @@ libXm.so.4:XmDropSiteUnregister
 libXm.so.4:XmDropSiteUpdate
 libXm.so.4:XmDropTransferAdd
 libXm.so.4:XmDropTransferStart
+libXm.so.4:XmExt18ListDeselectItems
+libXm.so.4:XmExt18ListDeselectRow
+libXm.so.4:XmExt18ListGetSelectedRowArray
+libXm.so.4:XmExt18ListGetSelectedRows
+libXm.so.4:XmExt18ListMakeRowVisible
+libXm.so.4:XmExt18ListSelectAllItems
+libXm.so.4:XmExt18ListSelectItems
+libXm.so.4:XmExt18ListSelectRow
+libXm.so.4:XmExt18ListToggleRow
+libXm.so.4:XmExt18ListUnselectAllItems
+libXm.so.4:XmExt18ListUnselectItem
 libXm.so.4:XmFileSelectionBoxGetChild
 libXm.so.4:XmFileSelectionDoSearch
 libXm.so.4:XmFontListAdd
@@ -1057,6 +1077,7 @@ libXm.so.4:XmVaCreateCascadeButton
 libXm.so.4:XmVaCreateCascadeButtonGadget
 libXm.so.4:XmVaCreateColorSelector
 libXm.so.4:XmVaCreateColumn
+libXm.so.4:XmVaCreateCombinationBox2
 libXm.so.4:XmVaCreateComboBox
 libXm.so.4:XmVaCreateCommand
 libXm.so.4:XmVaCreateContainer
@@ -1064,6 +1085,7 @@ libXm.so.4:XmVaCreateDataField
 libXm.so.4:XmVaCreateDrawingArea
 libXm.so.4:XmVaCreateDrawnButton
 libXm.so.4:XmVaCreateDropDown
+libXm.so.4:XmVaCreateExt18List
 libXm.so.4:XmVaCreateFileSelectionBox
 libXm.so.4:XmVaCreateForm
 libXm.so.4:XmVaCreateFrame
@@ -1080,6 +1102,7 @@ libXm.so.4:XmVaCreateManagedCascadeButton
 libXm.so.4:XmVaCreateManagedCascadeButtonGadget
 libXm.so.4:XmVaCreateManagedColorSelector
 libXm.so.4:XmVaCreateManagedColumn
+libXm.so.4:XmVaCreateManagedCombinationBox2
 libXm.so.4:XmVaCreateManagedComboBox
 libXm.so.4:XmVaCreateManagedCommand
 libXm.so.4:XmVaCreateManagedContainer
@@ -1087,6 +1110,7 @@ libXm.so.4:XmVaCreateManagedDataField
 libXm.so.4:XmVaCreateManagedDrawingArea
 libXm.so.4:XmVaCreateManagedDrawnButton
 libXm.so.4:XmVaCreateManagedDropDown
+libXm.so.4:XmVaCreateManagedExt18List
 libXm.so.4:XmVaCreateManagedFileSelectionBox
 libXm.so.4:XmVaCreateManagedForm
 libXm.so.4:XmVaCreateManagedFrame

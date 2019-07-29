@@ -1,0 +1,11 @@
+2.3.8
+bison
+flex
+fontconfig-dev
+freetype-dev
+libXrender-dev
+libjpeg-turbo-dev
+pkgconfig(fontconfig)
+pkgconfig(x11)
+pkgconfig(xft)
+pkgconfig(xt)
