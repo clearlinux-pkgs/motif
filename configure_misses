@@ -10,34 +10,33 @@ Configure miss: regcmp
 Configure miss: libXp... checking X11/extensions/Print.h usability
 Configure miss: X11/extensions/Print.h presence
 Configure miss: X11/extensions/Print.h
-Configure miss: freetype/freetype.h usability
-Configure miss: freetype/freetype.h presence
-Configure miss: freetype/freetype.h
 Configure miss: X11/extensions/Xrender.h usability
 Configure miss: X11/extensions/Xrender.h presence
 Configure miss: X11/extensions/Xrender.h
 Configure miss: fontconfig-config
-Configure miss: Mrmicon.c:1173:3: warning: format not a string literal and no format arguments [-Wformat-security]
-
-Configure miss: Mrmicon.c:1249:8: warning: format not a string literal and no format arguments [-Wformat-security]
-
 Configure miss: Mrmlread.c:688:7: warning: format not a string literal and no format arguments [-Wformat-security]
-
-Configure miss: Mrmhier.c:262:8: warning: format not a string literal and no format arguments [-Wformat-security]
-
-Configure miss: Mrmhier.c:265:8: warning: format not a string literal and no format arguments [-Wformat-security]
 
 Configure miss: Mrmwcrw.c:1388:9: warning: format not a string literal and no format arguments [-Wformat-security]
 
 Configure miss: Mrmwcrw.c:2424:4: warning: format not a string literal and no format arguments [-Wformat-security]
 
-Configure miss: wmloutmm.c:206:1: warning: format not a string literal and no format arguments [-Wformat-security]
+Configure miss: Mrmhier.c:262:8: warning: format not a string literal and no format arguments [-Wformat-security]
 
-Configure miss: wmloutmm.c:208:1: warning: format not a string literal and no format arguments [-Wformat-security]
+Configure miss: Mrmhier.c:265:8: warning: format not a string literal and no format arguments [-Wformat-security]
 
-Configure miss: wmloutmm.c:284:1: warning: format not a string literal and no format arguments [-Wformat-security]
+Configure miss: Mrmicon.c:1173:3: warning: format not a string literal and no format arguments [-Wformat-security]
 
-Configure miss: wmloutmm.c:320:1: warning: format not a string literal and no format arguments [-Wformat-security]
+Configure miss: Mrmicon.c:1249:8: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:571:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:576:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:580:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:809:1: warning: format not a string literal and no format arguments [-Wformat-security]
+
+Configure miss: wmloutkey.c:810:1: warning: format not a string literal and no format arguments [-Wformat-security]
 
 Configure miss: wmlouth.c:222:1: warning: format not a string literal and no format arguments [-Wformat-security]
 
@@ -157,12 +156,10 @@ Configure miss: wmlouth.c:1903:1: warning: format not a string literal and no fo
 
 Configure miss: wmlouth.c:1933:1: warning: format not a string literal and no format arguments [-Wformat-security]
 
-Configure miss: wmloutkey.c:571:1: warning: format not a string literal and no format arguments [-Wformat-security]
+Configure miss: wmloutmm.c:206:1: warning: format not a string literal and no format arguments [-Wformat-security]
 
-Configure miss: wmloutkey.c:576:1: warning: format not a string literal and no format arguments [-Wformat-security]
+Configure miss: wmloutmm.c:208:1: warning: format not a string literal and no format arguments [-Wformat-security]
 
-Configure miss: wmloutkey.c:580:1: warning: format not a string literal and no format arguments [-Wformat-security]
+Configure miss: wmloutmm.c:284:1: warning: format not a string literal and no format arguments [-Wformat-security]
 
-Configure miss: wmloutkey.c:809:1: warning: format not a string literal and no format arguments [-Wformat-security]
-
-Configure miss: wmloutkey.c:810:1: warning: format not a string literal and no format arguments [-Wformat-security]
+Configure miss: wmloutmm.c:320:1: warning: format not a string literal and no format arguments [-Wformat-security]
